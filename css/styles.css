@@ -69,3 +69,27 @@ img.my-shadow {
 .text-italic {
     font-style: italic;
 }
+
+#abra {
+    border: 3px solid var(--green);
+}
+
+.myfooter {
+    background-color: var(--red);
+}
+
+.myfooter a {
+    color: unset;
+    font-variant: small-caps;
+    text-decoration: unset;
+    letter-spacing: 2px;
+    margin-left: 5px;
+}
+
+.myfooter a:hover {
+    background-color: black;
+}
+
+p {
+    margin: 0;
+}
